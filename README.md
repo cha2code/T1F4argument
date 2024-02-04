@@ -15,7 +15,7 @@
 ### 3. 맡은 역할
    * 회원, 권한, remember-me, 정보 수정 및 삭제 등의 DB설계
    * 회원 가입시 SMTP를 사용한 이메일 인증 구현
-   * Spring security를 이용한 session 관리
+   * Spring security를 이용한 회원 정보 및 session 관리
    * 로그인, 회원 가입, 정보 등등의 회원 메뉴 화면 구현
 
     
